@@ -3,9 +3,9 @@
 **Tool:** Microsoft Excel | **Data:** 2,845 Employees · 28 Fields  
 **Dashboards:** Workforce Overview · Employee Performance & Engagement · Training & HR Investment
 
-![Workforce Overview](screenshots/Workforce.png)
-![Employee Performance](screenshots/Employee_performance.png)
-![Training & Investment](screenshots/Training_Investment.png)
+![Workforce Overview](screenshots/Workforce.jpg)
+![Employee Performance](screenshots/Employee_performance.jpg)
+![Training & Investment](screenshots/Training_Investment.jpg)
 
 ---
 
